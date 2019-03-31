@@ -1,4 +1,3 @@
-Teste
-Arquivo da aula de git e github para iniciantes
+Este é um repositório teste para ensinar como o Git funciona.
 
- Mais alguma coisa.
+Saiba mais [Handtech](handtech.com.br)
